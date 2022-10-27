@@ -1,5 +1,5 @@
 PODS:
-  - MyPod1 (0.1.0)
+  - MyPod1 (1.0.0)
 
 DEPENDENCIES:
   - MyPod1 (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MyPod1: 70ddb3bf969e34bc768b6468b1a89e8384386626
+  MyPod1: 0425c7dac7ba4d2060b7bb7247c304a2f7923de1
 
 PODFILE CHECKSUM: a6570eaee3eb1ae73916c6a8a6bcc6ac79bddd9d
 
